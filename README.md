@@ -107,3 +107,14 @@ Final Project Grade: 15.5 / 20
 - Voice assistant integration
 - Energy consumption optimization
 - Advanced data analytics dashboard
+---
+
+## 🎥 Project Demonstration
+
+Watch the complete project demonstration on YouTube:
+
+▶️ https://youtu.be/82-5VDjDhzA
+
+Or click the thumbnail below:
+
+[![Watch the Demo](https://img.youtube.com/vi/82-5VDjDhzA/maxresdefault.jpg)](https://youtu.be/82-5VDjDhzA)
